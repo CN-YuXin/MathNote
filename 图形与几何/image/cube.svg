@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="位图.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.31395541"
+     inkscape:cx="0"
+     inkscape:cy="369.47922"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1372"
+       transform="matrix(0.81494334,0,0,0.81494334,23.287953,27.830539)"
+       style="stroke-width:1.22708">
+      <path
+         id="rect234"
+         style="fill:#80b3ff;fill-rule:evenodd;stroke-width:1.84062"
+         d="M 38.764305,74.869339 H 175.98966 V 212.0947 H 38.764305 Z" />
+      <path
+         id="rect1102"
+         style="fill:#2a7fff;fill-rule:evenodd;stroke-width:1.97901"
+         d="m 203.44891,176.94334 h 60.99023 v 137.22538 h -60.99023 z"
+         transform="matrix(0.86503117,-0.50171812,0,1,0,0)" />
+      <path
+         id="rect1212"
+         style="fill:#5599ff;fill-rule:evenodd;stroke-width:1.84062"
+         d="M 91.522707,44.269445 38.764272,74.86932 175.98965,74.869338 228.74808,44.269445 Z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

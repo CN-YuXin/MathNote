@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="YuXin">
+        <meta name="description" content="MathNote">
+        <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+        <title>{{site.title}} - {{ page.title }}</title>
+        <style>
+            #wrapper {
+                font-size: 7vh;
+                font-weight: bold;
+
+                border-bottom: 1px solid #EAECEF;
+                padding: 5px 20px;
+                margin-bottom: 10px;
+            }
+            body {
+                max-width: 1000px;
+                margin: auto;
+            }
+        </style>
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                tex2jax: {
+                    inlineMath: [ ['$','$'] ],
+                    displayMath: [ ['$$','$$'] ],
+                    processEscapes: true
+                }
+            });
+        </script>
+    </head>
+    <body>
+        <div id="wrapper">
+            {{ page.title }}
+        </div>
+        {{ content }}
+    </body>
+</html>
